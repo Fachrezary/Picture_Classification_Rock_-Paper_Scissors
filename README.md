@@ -1,4 +1,4 @@
-# 👊🤚✌ Proyek Klasifikasi Gambar Rock, Paper, Scissors
+# Proyek Klasifikasi Gambar Rock, Paper, Scissors
 Proyek klasifikasi gambar rock, paper, scissors ini merupakan proyek akhir pada kelas "Belajar Machine Learning untuk Pemula" di **Dicoding**.
 
 ## Deskripsi Proyek
